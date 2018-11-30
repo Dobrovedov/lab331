@@ -5,7 +5,7 @@
 #include <vector>
 #include <string>
 #include "LipkinForever.h"
-
+#include "sm15.h"
 using namespace std;
 
 int main()

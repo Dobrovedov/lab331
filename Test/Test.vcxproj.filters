@@ -21,9 +21,15 @@
     <ClCompile Include="LipkinForever.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="sm15.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LipkinForever.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="sm15.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
