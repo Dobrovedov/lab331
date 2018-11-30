@@ -14,6 +14,7 @@ int main()
 	LipkinForever Lpp;
 	Lpp.Print_the_best();
 	// Bens
+	// Lipkin krasavchik?
 
 	_getch();
 	return 0;
