@@ -15,6 +15,7 @@ int main()
 	Lpp.Print_the_best();
 	// Bens
 	// Lipkin krasavchik?
+	// New Armund class
 
 	_getch();
 	return 0;
