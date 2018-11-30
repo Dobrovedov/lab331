@@ -16,6 +16,7 @@ int main()
 	// Bens
 	// Lipkin krasavchik?
 	// New Armund class
+	// Again new class
 
 	_getch();
 	return 0;
